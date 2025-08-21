@@ -1,7 +1,4 @@
-feat: adiciona meu primeiro código em Python 🚀
+feat: adiciona primeiro script em Python
 
-chore: primeiro commit do projeto em Python
-
-init: cria arquivo inicial em Python
-
-primeiro commit - código inicial em Python
+Implementa função main() que exibe a mensagem:
+"Olá, mundo! Este é meu primeiro script Python no VS Code."
